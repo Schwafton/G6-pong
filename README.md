@@ -14,7 +14,7 @@ next to your responsibility for the project
 1) Design Base Pong Game         | WP (Whitney)
 2) Design Player Avatars         |
 3) Design Game Board Layouts     |
-4) Design Save/Continue function |
+4) Design Save/Continue function | AS (Afton)
 
 -----------------------------------------
 
